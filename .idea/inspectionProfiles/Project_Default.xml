@@ -1,0 +1,145 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="filelock" />
+            <item index="1" class="java.lang.String" itemvalue="vector_quantize_pytorch" />
+            <item index="2" class="java.lang.String" itemvalue="torch" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E305" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="水风.对冲调度规则求解.模型求解.optimization2.NonNegativeReals" />
+          <option value="水风.对冲调度规则求解.模型求解.optimization2.Binary" />
+          <option value="水风.对冲调度规则求解.模型求解.water_wind_model.NonNegativeReals" />
+          <option value="水风.对冲调度规则求解.模型求解.water_wind_model.Binary" />
+          <option value="水风.对冲调度规则求解.模型求解.water_wind_model.NegativeIntegers" />
+          <option value="水风.对冲调度规则求解.模型求解.water_wind_model.PositiveIntegers" />
+          <option value="水风.对冲调度规则求解.模型求解.water_wind_model2.NonNegativeReals" />
+          <option value="水风.对冲调度规则求解.模型求解.water_wind_model2.Binary" />
+          <option value="水风.对冲调度规则求解.模型求解.optimization3.NonNegativeReals" />
+          <option value="水风.对冲调度规则求解.模型求解.optimization3.Binary" />
+          <option value="水风.对冲调度规则求解.模型求解.model.Binary" />
+          <option value="水风.对冲调度规则求解.模型求解.model.NonNegativeReals" />
+          <option value="水风.对冲调度规则求解.模型求解.model2.NonNegativeReals" />
+          <option value="水风.对冲调度规则求解.模型求解.model2.Binary" />
+          <option value="calendar.monthlen" />
+          <option value="末水位优化.模型.model1.Binary" />
+          <option value="末水位优化.模型.model1.NonNegativeReals" />
+          <option value="末水位优化.模型.model2.NonNegativeReals" />
+          <option value="末水位优化.模型.model2.Binary" />
+          <option value="末水位优化.模型.model3.NonNegativeReals" />
+          <option value="末水位优化.模型.model3.Binary" />
+          <option value="pandas.io.excel._base.ExcelWriter.__getitem__" />
+          <option value="末水位优化.模型.model.model1.NonNegativeReals" />
+          <option value="末水位优化.模型.model.model1.Binary" />
+          <option value="末水位优化.模型.model.milp_model.Binary" />
+          <option value="末水位优化.模型.model.milp_model.NonNegativeReals" />
+          <option value="末水位优化.模型.model.milp_model2.NonNegativeReals" />
+          <option value="末水位优化.模型.model.milp_model2.Binary" />
+          <option value="末水位优化.模型.model.milp_model3.NonNegativeReals" />
+          <option value="末水位优化.模型.model.milp_model3.Binary" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model.Binary" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model.NonNegativeReals" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model2.Binary" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model2.NonNegativeReals" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model3.NonNegativeReals" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model3.Binary" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model4.NonNegativeReals" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model4.Binary" />
+          <option value="福建水口.梯级短期调峰模型.short_term_peak_shaving_model5.NonNegativeReals" />
+          <option value="末水位优化.模型.model.qp_model.Binary" />
+          <option value="末水位优化.模型.model.qp_model.NonNegativeReals" />
+          <option value="末水位优化.模型.model.QP_MODEL.qp_model.NonNegativeReals" />
+          <option value="末水位优化.模型.model.QP_MODEL.qp_model.Binary" />
+          <option value="末水位优化.模型.model.QP_MODEL.qp_model2.NonNegativeReals" />
+          <option value="末水位优化.模型.model.QP_MODEL.qp_model2.Binary" />
+          <option value="末水位优化.new模型.new_model.NonNegativeReals" />
+          <option value="末水位优化.new模型.new_model.Binary" />
+          <option value="model.NonNegativeReals" />
+          <option value="model.Binary" />
+          <option value="list.rename" />
+          <option value="model2.Binary" />
+          <option value="model2.NonNegativeReals" />
+          <option value="model3.Binary" />
+          <option value="model3.NonNegativeReals" />
+          <option value="model4.Binary" />
+          <option value="model4.NonNegativeReals" />
+          <option value="h_w_model.Binary" />
+          <option value="h_w_model.NonNegativeReals" />
+          <option value="h_w_max_model.Binary" />
+          <option value="h_w_max_model.NonNegativeReals" />
+          <option value="sop_max_model.NonNegativeReals" />
+          <option value="sop_max_model.Binary" />
+          <option value="result_data.修改目标发电量.h_w_model.NonNegativeReals" />
+          <option value="result_data.修改目标发电量.h_w_model.Binary" />
+          <option value="float.__getitem__" />
+          <option value="gams_model.非线性模型.NonNegativeReals" />
+          <option value="gams_model.非线性模型.Binary" />
+          <option value="非线性模型.NonNegativeReals" />
+          <option value="非线性模型.Binary" />
+          <option value="peak_model.model.NonNegativeReals" />
+          <option value="peak_model.model.Binary" />
+          <option value="梯级短期调峰模型.short_term_peak_shaving_model5.NonNegativeReals" />
+          <option value="梯级短期调峰模型.short_term_peak_shaving_model5.Binary" />
+          <option value="model.model.NonNegativeReals" />
+          <option value="model.model.Binary" />
+          <option value="model2.model.NonNegativeReals" />
+          <option value="model2.model.Binary" />
+          <option value="utility.cascade_peak_regulation_model.NonNegativeReals" />
+          <option value="utility.cascade_peak_regulation_model.Binary" />
+          <option value="utility.km_dn_hb_model.Binary" />
+          <option value="utility.km_dn_hb_model.NonNegativeReals" />
+          <option value="utility.final_water_level_model.NonNegativeReals" />
+          <option value="utility.final_water_level_model.Binary" />
+          <option value="models.model.NonNegativeReals" />
+          <option value="models.model.Binary" />
+          <option value="models.final_water_level_model.NonNegativeReals" />
+          <option value="models.final_water_level_model.Binary" />
+          <option value="models.final_water_level_model2.NonNegativeReals" />
+          <option value="models.final_water_level_model2.Binary" />
+          <option value="models.sop_model.NonNegativeReals" />
+          <option value="models.sop_model.Binary" />
+          <option value="models.peak_regulation.NonNegativeReals" />
+          <option value="models.peak_regulation.Binary" />
+          <option value="basictools.peak_regulation.Binary" />
+          <option value="basictools.peak_regulation.NonNegativeReals" />
+          <option value="utility.peak_regulation.NonNegativeReals" />
+          <option value="utility.peak_regulation.Binary" />
+          <option value="models.kmdnhb_model.NonNegativeReals" />
+          <option value="models.kmdnhb_model.Binary" />
+          <option value="models.kmdnhb_model2.NonNegativeReals" />
+          <option value="models.kmdnhb_model2.Binary" />
+          <option value="model.kmdnhb_model2.NonNegativeReals" />
+          <option value="model.kmdnhb_model2.Binary" />
+          <option value="toolboxes.model.NonNegativeReals" />
+          <option value="toolboxes.model.Binary" />
+          <option value="toolboxes.model2.NonNegativeReals" />
+          <option value="toolboxes.model2.Binary" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
